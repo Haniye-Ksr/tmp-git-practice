@@ -4,9 +4,7 @@ from utils import add
 
 print(add(3,4))
 print('Branch master!')
-<<<<<<< HEAD
 print('Hello Branch Master!!!')
-=======
 
 def main():
     a = 10
@@ -16,4 +14,7 @@ def main():
 
 if __name__ == '__main__':
     main()
->>>>>>> iss55
+
+def prt():
+    print('Hi')
+    
