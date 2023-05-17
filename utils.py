@@ -21,3 +21,9 @@ def div(a,b):
    This function devision tow numbers
    """
    return a / b
+
+def pow(a,b):
+   """
+   This function raises a number to a power
+   """
+   return a ** b
