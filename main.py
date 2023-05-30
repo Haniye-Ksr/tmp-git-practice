@@ -17,3 +17,4 @@ if __name__ == '__main__':
     main()
 
 print('Hither!')
+print('Hello world!')
